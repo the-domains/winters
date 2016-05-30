@@ -1,0 +1,28 @@
+name: WINTERS
+favicon: null
+layout_spectrum: 0.43879159027710557
+typography_spectrum: 0.25790184643119574
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8556813357863575
+  lightness: 0.7490143943578005
+  saturation: 0.8528716638684273
+  rhythmicContrast: 0.26280140574090183
+purpose: []
